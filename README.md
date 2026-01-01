@@ -1,12 +1,16 @@
-🚀 Chef’s Plate – Restaurant Front-End Website
+#🚀 Chef’s Plate – Restaurant Front-End Website
 A restaurant-themed front-end webpage developed using HTML5 and CSS3.
 This project focuses on creating a visually appealing user interface with modern layouts, hover effects, and structured content.
 
-📌 Project Overview
+---
+
+#📌 Project Overview
 Chef’s Plate is a static restaurant website that showcases featured dishes and customer reviews.
 It is designed to strengthen front-end development skills, particularly in layout design, Flexbox usage, and CSS transitions.
 
-✨ Features
+---
+
+#✨ Features
 🧭 Static navigation bar with:
 
 Restaurant logo with Font Awesome icon
@@ -39,7 +43,9 @@ Testimonials
 
 📱 Clean and flexible layout suitable for different screen sizes
 
-🛠️ Technologies Used
+---
+
+#🛠️ Technologies Used
 
 HTML5 – Structure of the webpage
 
@@ -47,7 +53,9 @@ CSS3 – Styling, layout, and animations
 
 Font Awesome – Icons via CDN
 
-🛠️ Requirements
+---
+
+#🛠️ Requirements
 
 Any modern web browser (Chrome, Edge, Firefox, etc.)
 
@@ -55,8 +63,10 @@ Internet connection (for Font Awesome CDN)
 
 Git (optional, for cloning the repository)
 
-▶️ How to Run the Project
+---
+
+#▶️ How to Run the Project
 
 Clone the repository:
-
+```bash
 git clone https://github.com/your-username/chefs-plate.git
