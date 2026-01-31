@@ -52,6 +52,6 @@ It is designed to strengthen front-end development skills, particularly in **lay
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-git clone 
+
 ```bash
 https://github.com/triharsha/Chefs_Plate.git
