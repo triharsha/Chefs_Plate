@@ -54,4 +54,4 @@ It is designed to strengthen front-end development skills, particularly in **lay
 1. Clone the repository:
 git clone 
 ```bash
-https://github.com/triharsha/Chef's_Plate.git
+https://github.com/triharsha/Chefs_Plate.git
